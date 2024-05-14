@@ -1,6 +1,7 @@
 [![DOI](https://zenodo.org/badge/800259202.svg)](https://zenodo.org/doi/10.5281/zenodo.11188964) 
 
-# [Your Team Name]
+# Data Dirt and Data Draughts
+## Demystifying Environmental Data Products via Data Cards
 
 Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
