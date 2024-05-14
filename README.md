@@ -3,9 +3,7 @@
 # Data Dirt and Data Draughts
 ## Demystifying Environmental Data Products via Data Cards
 
-Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
-
-#practice edit
+Welcome to the **G14** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
 ## Our Project
 [Provide a brief overview of your project here.
