@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/771059390.svg)](https://zenodo.org/doi/10.5281/zenodo.11166866)
+[![DOI](https://zenodo.org/badge/800259202.svg)](https://zenodo.org/doi/10.5281/zenodo.11188964)
 
 # [Your Team Name]
 
