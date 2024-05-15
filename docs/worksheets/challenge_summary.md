@@ -15,7 +15,7 @@ However, these data often have severe limitations (e.g. areas with poor radar da
 
 ## Specific Objectives
 1. Identify specific areas to add (NOAA) sensors (filling data gaps)
-2. Select subset of data that improves prediction performance (mitigata bias / noisy data) 
+2. Select subset of data used to tran models that improves prediction performance (mitigata bias / noisy data) 
 
 
 ## Evaluation
