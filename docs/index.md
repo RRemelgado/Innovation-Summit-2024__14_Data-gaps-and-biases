@@ -16,13 +16,35 @@
 
 ### Our Three-Pronged Approach
 
-1. Data-centric machine-learning challenges
-2. Data cards to document environmental datasets
-3. Domain experts (researchers and decisionmakers)
+1. Data-centric machine-learning challenges  
+   Inspirations: e.g., [DataPerf](https://www.dataperf.org/home) by [MLCommon's DMLR Group](https://mlcommons.org/working-groups/research/dmlr/) and [ITU AI for Good Challenge](https://aiforgood.itu.int/about-ai-for-good/aiml-solutions-for-climate-change/)
+2. Data cards to document environmental datasets  
+   Inspiration: Google's [Data Cards Playbook](https://sites.research.google/datacardsplaybook/)
+5. Domain experts (researchers and decision-makers)
+
+---
 
 ### Guiding Example: Flash-Flood Prediction
 
 TODO
+
+(One interesting graphic/finding)
+
+
+
+---
+
+### Future Plans
+
+#### What are the next steps?
+
+- Short-term: TODO
+- Long-term: TODO
+
+#### What are we missing?
+- Resources: TODO
+- People: TODO
+- Datasets: TODO
 
 ---
 
