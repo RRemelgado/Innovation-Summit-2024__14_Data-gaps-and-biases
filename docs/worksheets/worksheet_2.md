@@ -60,11 +60,11 @@ Please share the following information about yourself. Each team member should t
   ---
 
 - **Member 7:**
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
-  - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
-  - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
+  - **Name:** Corinne Walsh
+  - **Pronouns:** she / her
+  - **Expertise:** Soil, carbon data science
+  - **Environmental Data Science Superpower:** microbiome DNA data
+  - **Reflection on Polarities Exercise:** Many things are situational for me. 
   
   ---
   
