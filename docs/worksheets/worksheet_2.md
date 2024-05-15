@@ -86,7 +86,7 @@ Write the research question your team selected in the space below. Feel free to 
 ## Project Title (approx. time: 5-10 mins)
 Craft a catchy title for your team’s project. Think of something that would grab attention at a conference or in a headline.
 
-- # Data Dirt and Data Draughts; Demystifying Environmental Data Products via Data Cards
+### Data Dirt and Data Draughts: Connecting Communities to Cultivate the Environmental Data Ecosystem
 
 
 ## Promoting Resilience and Adaptation
