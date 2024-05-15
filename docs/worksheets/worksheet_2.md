@@ -67,6 +67,15 @@ Please share the following information about yourself. Each team member should t
   - **Reflection on Polarities Exercise:** Many things are situational for me. 
   
   ---
+
+- **Member 8:**
+  - **Name:** Corinna Coupette
+  - **Pronouns:** they / she
+  - **Expertise:** computer science, complex systems, law
+  - **Environmental Data Science Superpower:** data visualization, data-centric machine learning
+  - **Reflection on Polarities Exercise:** 
+  
+  ---
   
 ## Research Question: Innovation for Inclusion or Computation (approx. time: 5-10 mins)
 Write the research question your team selected in the space below. Feel free to revise the original question.
