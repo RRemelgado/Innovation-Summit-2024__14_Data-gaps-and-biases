@@ -112,7 +112,7 @@ Below is a working definition of the word "Resilience" for the Summit. Please ed
 Select one representative from your group to present your proposed project. For the report back, each group will have 30-60 seconds to present their responses to the questions below. Keep it concise and focused. This is just a quick oral presentation - you will not be able to use slides/images.
 
 - **Project Title:**
-  - Data Dirt and Data Draughts; Demystifying Environmental Data Products via Data Cards
+  - Data Dirt and Data Draughts: Connecting Communities to Cultivate the Environmental Data Ecosystem
 - **Research Question:**
   - [Insert your team's refined research question here]
 - **Selected Data Sets:**
