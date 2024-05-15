@@ -118,15 +118,15 @@ TODO
 
 ### Day 2 Report Back
 1. What worked well for your team?
-   - Free-floating brainstorming in the divergent-thinking phase
-   - Turn-taking to work toward convergence
-   - Splitting up tasks based on expertise and necessities
+- Free-floating brainstorming in the divergent-thinking phase
+- Turn-taking to work toward convergence
+- Splitting up tasks based on expertise and necessities
 2. What’s one thing you would change?
-   - More streamlined data sharing and data access
-   - More people in the team who are familiar with quickly plotting geospatial data
+- More streamlined data sharing and data access
+- More people in the team who are familiar with quickly plotting geospatial data
 3. Did your group ever have an “ah-ha” moment? What led up to that moment?
-   - Yes; in the lead-up to that, one technical person pitched the idea of designing challenges to engage with ML people, and one person with domain expertise jumped onto that with lots of ideas about challenges related to flash floods
-   - After that, we had the basic structure for our three-pronged engagement approach
+- Yes; in the lead-up to that, one technical person pitched the idea of designing challenges to engage with ML people, and one person with domain expertise jumped onto that with lots of ideas about challenges related to flash floods
+- After that, we had the basic structure for our three-pronged engagement approach
 4. Did your group experience the groan zone? What is one tip you want to share with future groups at the Summit about getting through the groan zone?
-   - We probably experienced the groan zone yesterday already (goal wasn't clear; discussion turning in circles)
-   - The check-in round in the morning established a good working climate to iterate through phases of divergent and convergent thinking
+- We probably experienced the groan zone yesterday already (goal wasn't clear; discussion turning in circles)
+- The check-in round in the morning established a good working climate to iterate through phases of divergent and convergent thinking
