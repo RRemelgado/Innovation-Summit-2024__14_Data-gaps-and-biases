@@ -1,21 +1,30 @@
-![](./assets/esiil_content/Summit_Header.png)
+![<img src="./data-dragon.jpeg" width="100"/>](./data-dragon.jpeg)
 
 # Data Dirt and Data Draughts
 ## Connecting Communities to Cultivate the Environmental Data Ecosystem
 
-> What gaps/biases are present in environmental data sets that are critical for assessing adaptation and resilence, and how can we address them? 
+### Research Question
+#### Starting Question
 
-### Our Approach
+> What gaps/biases are present in environmental data sets that are critical for assessing adaptation and resilence, and how can we address them?
 
-Our goal is to bring together domain expertise (environmental science) with technical expertise (data science and machine learning) to identify and remedy data biases and data gaps in the environmental data ecosystem. 
+#### Refined Question
 
-#### A Three-Pronged Approach
+> How can we bring together domain expertise (environmental science) with technical expertise (data science and machine learning) to identify and remedy data biases and data gaps in the environmental data ecosystem?
+
+---
+
+### Our Three-Pronged Approach
+
 1. Data-centric machine-learning challenges
 2. Data cards to document environmental datasets
 3. Domain experts (researchers and decisionmakers)
 
-#### Guiding Example
-Data Dirt and Data Draughts in the Prediction of Flash Floods
+### Guiding Example: Flash-Flood Prediction
+
+TODO
+
+---
 
 ### Our Team: Data Dragons
 
@@ -83,4 +92,19 @@ Data Dirt and Data Draughts in the Prediction of Flash Floods
   - **Environmental Data Science Superpower:** data visualization, data-centric machine learning
   - **Reflection on Polarities Exercise:** 
   
-  ---
+---
+
+### Day 2 Report Back
+1. What worked well for your team?
+   - Free-floating brainstorming in the divergent-thinking phase
+   - Turn-taking to work toward convergence
+   - Splitting up tasks based on expertise and necessities
+2. What’s one thing you would change?
+   - More streamlined data sharing and data access
+   - More people in the team who are familiar with quickly plotting geospatial data
+3. Did your group ever have an “ah-ha” moment? What led up to that moment?
+   - Yes; in the lead-up to that, one technical person pitched the idea of designing challenges to engage with ML people, and one person with domain expertise jumped onto that with lots of ideas about challenges related to flash floods
+   - After that, we had the basic structure for our three-pronged engagement approach
+4. Did your group experience the groan zone? What is one tip you want to share with future groups at the Summit about getting through the groan zone?
+   - We probably experienced the groan zone yesterday already (goal wasn't clear; discussion turning in circles)
+   - The check-in round in the morning established a good working climate to iterate through phases of divergent and convergent thinking
