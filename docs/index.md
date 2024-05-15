@@ -171,3 +171,5 @@ Did your group ever have an “ah-ha” moment? What led up to that moment?
 Did your group experience the groan zone? What is one tip you want to share with future groups at the Summit about getting through the groan zone?
   - We probably experienced the groan zone yesterday already (goal wasn't clear; discussion turning in circles)
   - The check-in round in the morning established a good working climate to iterate through phases of divergent and convergent thinking
+
+--------------------------------------------------------------
