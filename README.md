@@ -56,7 +56,11 @@ Welcome to the **G14** repository, an integral part of ESIIL and Earth Lab's For
   - **Reflection on Polarities Exercise:** Most of the prompts are situational; I am an external processor!
 
 - **Member 7:**
-
+  - **Name:** Corinne Walsh
+  - **Pronouns:** She/her
+  - **Expertise:** Data Science for carbon and soil data
+  - **Environmental Data Science Superpower:** DNA and microbiome data
+  - **Reflection on Polarities Exercise:** 
 ...
 
 [Link to more detailed bios or profiles if available and desired.]
