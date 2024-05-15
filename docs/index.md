@@ -14,7 +14,7 @@ Our goal is to bring together domain expertise (environmental science) with tech
 2. Data cards to document environmental datasets
 3. Domain experts (researchers and decisionmakers)
 
-### Guiding Example
+#### Guiding Example
 Data Dirt and Data Draughts in the Prediction of Flash Floods
 
 ### Our Team: Data Dragons
