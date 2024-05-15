@@ -3,9 +3,7 @@
 # Data Dirt and Data Draughts
 ## Connecting Communities to Cultivate the Environmental Data Ecosystem
 
-!!! Success "Provocative question"
-
-    What gaps/biases are present in environmental data sets that are critical for assessing adaptation and resilence, and how can we address them? 
+> What gaps/biases are present in environmental data sets that are critical for assessing adaptation and resilence, and how can we address them? 
 
 ### Our Approach
 
