@@ -21,7 +21,7 @@ However, these data often have severe limitations (e.g. areas with poor radar da
 ## Evaluation
 A committee will score each submission considering the three aspects listed below:
 
-1. ****
+1. ??
 
 2. Accuracy assessment: how much does model improve?
 
