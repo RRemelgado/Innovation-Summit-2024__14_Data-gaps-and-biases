@@ -7,8 +7,19 @@
 
     What gaps/biases are present in environmental data sets that are critical for assessing adaptation and resilence, and how can we address them? 
 
+### Our Approach
 
-# Our Team: Data Dragons
+Our goal is to bring together domain expertise (environmental science) with technical expertise (data science and machine learning) to identify and remedy data biases and data gaps in the environmental data ecosystem. 
+
+#### A Three-Pronged Approach
+1. Data-centric machine-learning challenges
+2. Data cards to document environmental datasets
+3. Domain experts (researchers and decisionmakers)
+
+### Guiding Example
+Data Dirt and Data Draughts in the Prediction of Flash Floods
+
+### Our Team: Data Dragons
 
 - **Member 1:**
   - **Name:** Anna LoPresti
@@ -75,6 +86,3 @@
   - **Reflection on Polarities Exercise:** 
   
   ---
-
-
-
