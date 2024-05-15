@@ -71,7 +71,7 @@ Please share the following information about yourself. Each team member should t
 ## Research Question: Innovation for Inclusion or Computation (approx. time: 5-10 mins)
 Write the research question your team selected in the space below. Feel free to revise the original question.
 
-- [Insert research question here]
+- Data Gaps and Biases - What gaps/biases are present in environmental data sets that are critical for assessing adaptation and resilence, and how can we address them? 
 
 
 ## Project Title (approx. time: 5-10 mins)
@@ -115,7 +115,7 @@ Below is a working definition of the word "Resilience" for the Summit. Please ed
 Select one representative from your group to present your proposed project. For the report back, each group will have 30-60 seconds to present their responses to the questions below. Keep it concise and focused. This is just a quick oral presentation - you will not be able to use slides/images.
 
 - **Project Title:**
-  - [Insert your team's project title here]
+  - Data Dirt and Data Draughts; Demystifying Environmental Data Products via Data Cards
 - **Research Question:**
   - [Insert your team's refined research question here]
 - **Selected Data Sets:**
