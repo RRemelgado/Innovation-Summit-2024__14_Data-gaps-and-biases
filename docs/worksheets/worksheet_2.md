@@ -72,8 +72,7 @@ Write the research question your team selected in the space below. Feel free to 
 - Data Gaps and Biases - What gaps/biases are present in environmental data sets that are critical for assessing adaptation and resilence, and how can we address them? 
 
 
-## Project Title (approx. time: 5-10 mins)
-Craft a catchy title for your team’s project. Think of something that would grab attention at a conference or in a headline.
+## Project Title
 
 ### Data Dirt and Data Draughts: Connecting Communities to Cultivate the Environmental Data Ecosystem
 
