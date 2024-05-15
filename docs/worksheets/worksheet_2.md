@@ -11,7 +11,7 @@ Work through the prompts in order. Please use a decision-making method “to dec
 ## Introductions (approx. time: 10 mins total or "1-2 breaths" per prompt)
 Please share the following information about yourself. Each team member should type their response in the space below (create more as needed).
 
-  - **Member 1:**
+- **Member 1:**
   - **Name:** Anna LoPresti
   - **Pronouns:** She/her
   - **Expertise:** Wildfire and prescribed fire management; climate adaptation planning, monitoring, and evaluation
