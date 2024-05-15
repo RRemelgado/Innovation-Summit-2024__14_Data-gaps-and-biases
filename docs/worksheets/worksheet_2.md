@@ -83,7 +83,7 @@ Craft a catchy title for your team’s project. Think of something that would gr
 ## Promoting Resilience and Adaptation
 Describe how your proposed project aligns with the Summit's themes of resilience and adaptation. Please provide 1-2 sentences that clearly connect your project's goals or methods to these themes.
 
-- [Insert your response here]
+- The project aims to enhance the resilience and adaptive capacity of environmental data systems by providing clear, accessible data cards that demystify complex data products. This initiative supports informed decision-making and rapid adaptation in response to environmental changes and disruptions.
 
 
 ## Choosing Big Data Sets
