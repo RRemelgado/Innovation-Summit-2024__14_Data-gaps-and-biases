@@ -13,58 +13,54 @@ Welcome to the **G14** repository, an integral part of ESIIL and Earth Lab's For
 
 ## Group Members
 
-- **Member 1:**
-  - **Name:** Anna LoPresti
+- **Anna LoPresti**
   - **Pronouns:** She/her
   - **Expertise:** Wildfire and prescribed fire management; climate adaptation planning, monitoring, and evaluation
   - **Environmental Data Science Superpower:** Communicating environmental science to decision-makers; using observational data to evaluate adaptation effectiveness
   - **Reflection on Polarities Exercise:** I was on a call during the exercise - I learned to not double-book myself in the future!
 
-- **Member 2:**
-  - **Name:** Elshadai Tegegn
+- **Elshadai Tegegn**
   - **Pronouns:** She/her
   - **Expertise:** PhD candidate (CS) focusing on XAI
   - **Environmental Data Science Superpower:** Interested in contributing to the field and finding ways to integrate environmental studies with my research
   - **Reflection on Polarities Exercise:** Internal Processor sending long emails because I process while I write
 
-- **Member 3:**
-  - **Name:** Khai Hoan Nguyen
+- **Khai Hoan Nguyen**
   - **Pronouns:** She/her
   - **Expertise:** Climate adaptation governance; planning and policy
   - **Environmental Data Science Superpower:** Making institutional arrangements legible
   - **Reflection on Polarities Exercise:** Some dimensions I was very sure about, some I was on the fence.
 
-- **Member 4:**
-  - **Name:** Nanette Hosenfeld
+- **Nanette Hosenfeld**
   - **Pronouns:** She/her
   - **Expertise:** Meteorologist - forecasting weather, wildfire potential, river flooding, and water supply (snowpack runoff) for the Colorado River and Great Basin
   - **Environmental Data Science Superpower:** Data processing and analysis, web design - mainly geospatial
   - **Reflection on Polarities Exercise:** Missed this but now I'm curious
 
-- **Member 5:**
-  - **Name:** Ruben Remelgado
+- **Ruben Remelgado**
   - **Pronouns:** He/him
   - **Expertise:** Remote Sensing, Biodiversity Change, Multidisciplinary studies
   - **Environmental Data Science Superpower:** Data integration and synthesis across disciplines
   - **Reflection on Polarities Exercise:** A lot of movement in the room; very mixed crowd.
 
-- **Member 6:**
-  - **Name:** Vaasuki Marupaka
+- **Vaasuki Marupaka**
+  - **Name:** 
   - **Pronouns:** She/her
   - **Expertise:** PhD student working on computational biogeochemistry
   - **Environmental Data Science Superpower:** Spatial-temporal reflections, global coverage, and policies
   - **Reflection on Polarities Exercise:** Most of the prompts are situational; I am an external processor!
 
-- **Member 7:**
-  - **Name:** Corinne Walsh
+- **Corinne Walsh**
   - **Pronouns:** She/her
   - **Expertise:** Data Science for carbon and soil data
   - **Environmental Data Science Superpower:** DNA and microbiome data
   - **Reflection on Polarities Exercise:** 
-...
 
-[Link to more detailed bios or profiles if available and desired.]
-
+- **Corinna Coupette**
+  - **Pronouns:** They/she
+  - **Expertise:** 
+  - **Environmental Data Science Superpower:** 
+  - **Reflection on Polarities Exercise:** 
 
 ## Code Repository Structure
 - **Data Processing**: Scripts for cleaning, merging, and managing datasets.
